@@ -1,0 +1,15 @@
+22/10/16 18.20
+Statistiche del progetto
+
+                 	Segmenti	Parole	Caratteri (senza spazi)	Caratteri (con spazi)	#File	
+Totali:          	     342	  7116	                  43554	                50052	    2	
+Restanti:        	     342	  7116	                  43554	                50052	    2	
+Univoci:         	     283	  7011	                  42651	                49077	    2	
+Univoci restanti:	     283	  7011	                  42651	                49077	    2	
+
+
+Statistiche file singoli:
+
+Nome del file                                                 	Segmenti totali	Segmenti restanti	Segmenti univoci	Segmenti univoci restanti	Parole totali	Parole restanti	Parole univoche	Parole univoche restanti	Caratteri totali (senza spazi)	Caratteri restanti (senza spazi)	Caratteri univoci (senza spazi)	Caratteri univoci restanti (senza spazi)	Caratteri totali (con spazi)	Caratteri restanti (con spazi)	Caratteri univoci (con spazi)	Caratteri univoci restanti (con spazi)	
+140706 lettera aperta sul ritiro del permesso di soggiorno.odt	             23	               23	              23	                       23	          650	            650	            650	                     650	                          3679	                            3679	                           3679	                                    3679	                        4293	                          4293	                         4293	                                  4293	
+Difensori diritti ambientali 2013.odt                         	            319	              319	             260	                      260	         6466	           6466	           6361	                    6361	                         39875	                           39875	                          38972	                                   38972	                       45759	                         45759	                        44784	                                 44784	
